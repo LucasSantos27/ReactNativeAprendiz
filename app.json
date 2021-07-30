@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "first-project",
-    "slug": "first-project",
+    "name": "ReactNativeAprendiz",
+    "slug": "ReactNativeAprendiz",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
